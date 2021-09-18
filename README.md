@@ -29,3 +29,4 @@ Note: While you cannot include any JavaScript in a custom theme, you can embed J
 - [Free Web Fonts](https://fonts.google.com/)
 - [Hex Color Codes](https://htmlcolorcodes.com/)
 - [High Charts](https://api.highcharts.com/class-reference/)
+- [HTML & CSS Developer Resources](https://github.com/ModeSolutionsSandbox/styling/blob/7fd2a77513ee323c3d0f34bb99ef83eff811d9bf/HTML%20&%20CSS%20Devleloper%20Resource%20Library%20.pdf)
