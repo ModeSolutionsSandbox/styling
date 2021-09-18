@@ -1,7 +1,11 @@
 # Mode Custom Theme Style Guide Examples 
 This repository host 3 annotated  CSS style guides that Mode users can bootstrap from, and create custom themes based on the branding and design principles of their organization which will drive consistency and make your every Mode report not just a presentation of data and insights, but an extenstion of the organization. 
-<br>
-
+![Report Using Dark Theme](https://github.com/ModeSolutionsSandbox/styling/blob/7c13b948ca6c8edb6a4958a6080d362edd05d5d0/Report%20Using%20Dark%20Theme.png)
+Report Using Dark Theme
+![[Report Using Grey Theme](https://github.com/ModeSolutionsSandbox/styling/blob/7c13b948ca6c8edb6a4958a6080d362edd05d5d0/Report%20Using%20Gray%20Theme.png)
+Report Using Grey Theme
+![Report Using Subway Theme](https://github.com/ModeSolutionsSandbox/styling/blob/7c13b948ca6c8edb6a4958a6080d362edd05d5d0/Report%20Using%20Subway%20Theme.png)
+Report Using Subway Theme
 ## How to Use These Guides
 1. Fork one of the provided guides that is closest your the desired theme. However, given that you will be updating the rules as little or as much as you desire, the guides are to just provide the CSS Selectors found in most Mode reports. 
 2. Using your knowlesge of CSS and HTML update the attributes of the desired selectors.
