@@ -1,5 +1,5 @@
 # Mode Custom Theme Style Guides 
-This repository host 3 annotated  CSS style guides that Mode users can bootstrap from, and create custom themes based on the branding and design principles of their organization which will drive consistency and makes every Mode report not just a presentation of data and insights, but an extension of the organization. 
+This repository hosts 3 annotated  CSS style guides that Mode users can bootstrap from, and create custom themes based on the branding and design principles of their organization which will drive consistency and makes every Mode report not just a presentation of data and insights, but an extension of the organization. 
 
 ![Report Using Dark Theme](https://github.com/ModeSolutionsSandbox/styling/blob/7c13b948ca6c8edb6a4958a6080d362edd05d5d0/Report%20Using%20Dark%20Theme.png)<br>
 Report Using Dark Theme
